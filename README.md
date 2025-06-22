@@ -1,7 +1,7 @@
 # <h1 align = "center">CSE320</h1>
 ## <h1 align = "center">DATA COMMUNICATION</h1>
 # <h1 align = "center">BRAC University - Summer 2025</h1>
-Welcome to the GitHub repository for the **Data Communications** course, **CSE320**, at **BRAC University** for the **Summer 2025** semester.
+Welcome to the GitHub repository for the **Data Communications** course, **CSE320**, taught at **BRAC University** for the **Summer 2025** semester.
 
 This course is taught by my esteemed instructor:
 - Theory: Mr. Prothito Shovon Majumder **(PSM)**
